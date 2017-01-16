@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<!-- For IE -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- For Resposive Device -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon.png">
+	<meta http-equiv="content-type" content="text/html" />
+	<meta name="author" content="Vizag's Dabbawala" />
+	<title>Vizag's Dabbawala</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="assets/css/animsition.min.css" rel="stylesheet">
+    <script type="text/javascript" src="assets/js/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    
+    
+    <script>
+
+   	  	$(function(){
+
+			$('#left-nav').click(function(){
+
+				$('.side-tabs-mobile').animate({right: '210px'});
+
+			});
+
+			$('#close-btn').click(function(){
+
+				$('.side-tabs-mobile').animate({right: '-210px'});
+    
+			});
+
+		});
+		
+		
+		
+	
+   </script>
+    
+</head>
+
+<body>
+    <div style="" class="side-tabs-mobile menu-bg">
+      <div class="col-xs-12 menu-head no-padd">
+        <a href="javascript:void(0);" class="pull-left" id="close-btn"><i class="fa fa-close"></i></a><br />
+        <img src="assets/images/p1.jpg" style="margin-left: 50px;" width="100" class="img-responsive img-circle" />
+        <h4>Raghuram Chandra</h4>
+      </div>
+      <div class="clearfix"></div>
+      <div class="menu-item">
+        <a href="restaurant.htm"><i class="fa fa-home"></i> Home</a>
+      </div>
+      <div class="menu-item">
+        <a href="restaurant.htm"><i class="fa fa-user"></i> Profile</a>
+      </div>
+      <div class="menu-item">
+        <a href="restaurant.htm"><i class="fa fa-cog"></i> Settings</a>
+      </div>
+      <div class="menu-item">
+        <a href="restaurant.htm"><i class="fa fa-history"></i> History</a>
+      </div>
+    </div>
+    <header>
+        <div class="col-xs-6"><a href="index.htm"><img src="assets/images/logo1.png" class="img-responsive" width="110"/></a></div>
+        <div class="col-xs-6" id="left-nav"><a href="javascript:void0;" class="pull-right menu-icon button-1"><i class="fa fa-align-center"></i></a></div>
+    </header>
+    
+    
+    <section class="status-bar">
+        <article>
+            <div class="col-xs-1"><i class="fa fa-angle-left"></i></div>
+            <div class="col-xs-10 text-small" align="center">Order Successful</div>
+            <div class="col-xs-1"></div>
+        </article>
+    </section>
+    <section class="animsition item bg-pink content-part" data-animsition-in-class="fade-in-down-sm" data-animsition-out-class="fade-out-down-sm" data-animsition-in-duration="2000">
+        <article>
+            <div class="">
+                
+                <div class="col-xs-12"><br>
+					<ul class="list-group">
+					  <li class="list-group-item text-success" align="center"><br>
+						<i class="fa fa-check-square-o" style="font-size:60px;"></i><br>
+						<h4>Thank You</h4>
+						<p class="text-small">Your order placed successfully</p><br>
+					  </li>
+					</ul>
+					
+					<a href="index.htm" class="btn btn-success col-xs-12">Shop Again</a>
+				</div>
+            </div>
+        </article>
+    </section>
+    
+  <script src="assets/js/animsition.min.js" charset="utf-8"></script>
+  <script>
+  $( document ).ready(function() {
+    var $animsition = $('.animsition');
+    $animsition
+      .animsition()
+      .one('animsition.inStart',function(){
+        $(this).append('');
+        console.log('event -> inStart');
+      })
+      .one('animsition.inEnd',function(){
+        $('.target', this).html('');
+        console.log('event -> inEnd');
+      })
+      .one('animsition.outStart',function(){
+        console.log('event -> outStart');
+      })
+      .one('animsition.outEnd',function(){
+        console.log('event -> outEnd');
+      });
+  });
+  </script>
+  
+  
+  
+</body>
+</html>

@@ -1,0 +1,824 @@
+[24-Jul-2016 15:17:26 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[24-Jul-2016 15:17:26 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[24-Jul-2016 15:17:26 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[24-Jul-2016 15:17:26 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[24-Jul-2016 15:17:26 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 09:08:24 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 09:08:24 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 09:08:24 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 09:08:24 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 09:08:24 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 00:45:29 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 00:45:29 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:15:29 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 10:15:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:15:51 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:15:51 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:15:51 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:15:51 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 00:58:24 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 00:58:24 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:28:24 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 10:28:25 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:28:25 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:28:25 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:28:25 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:28:25 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:28:43 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 00:58:44 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:28:44 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:28:44 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:28:44 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 00:59:59 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/users.php on line 4
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 4
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/users.php on line 45
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 45
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/users.php on line 49
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 60
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: userid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 69
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: description in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: userid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 102
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 103
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 104
+[25-Jul-2016 10:29:59 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 135
+[25-Jul-2016 01:00:05 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:30:05 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:30:05 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:30:05 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 01:00:10 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 49
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 50
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: description in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 53
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 65
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 65
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 71
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 79
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: description in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 90
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 107
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 107
+[25-Jul-2016 10:30:10 Asia/Calcutta] PHP Notice:  Undefined variable: description in /home/freefoodco/public_html/cw_admin/pages/coms.php on line 107
+[25-Jul-2016 01:00:24 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Undefined index: hid in /home/freefoodco/public_html/cw_admin/pages/withdrawls.php on line 4
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/withdrawls.php on line 36
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/withdrawls.php on line 86
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/withdrawls.php on line 86
+[25-Jul-2016 10:30:24 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/withdrawls.php on line 91
+[25-Jul-2016 01:03:07 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 4
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/state.php on line 4
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant event - assumed 'event' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 9
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: event in /home/freefoodco/public_html/cw_admin/pages/state.php on line 9
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 14
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/state.php on line 14
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 55
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/state.php on line 55
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 69
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/state.php on line 69
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 111
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/state.php on line 111
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/state.php on line 116
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 156
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 158
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 156
+[25-Jul-2016 10:33:07 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/state.php on line 158
+[25-Jul-2016 01:03:13 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 4
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 4
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant event - assumed 'event' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 9
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: event in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 9
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 14
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 14
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 55
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 55
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 77
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 77
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 128
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 128
+[25-Jul-2016 10:33:13 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/zone.php on line 133
+[25-Jul-2016 01:03:24 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 4
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/city.php on line 4
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant event - assumed 'event' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 9
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: event in /home/freefoodco/public_html/cw_admin/pages/city.php on line 9
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 14
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/city.php on line 14
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 55
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/city.php on line 55
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 81
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/city.php on line 81
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/city.php on line 142
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/city.php on line 142
+[25-Jul-2016 10:33:24 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/city.php on line 147
+[25-Jul-2016 01:03:56 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:33:56 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:04:03 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 4
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 11
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 23
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 67
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 67
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 173
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 173
+[25-Jul-2016 10:34:03 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/spartners.php on line 179
+[25-Jul-2016 01:04:12 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 4
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined index: zonal in /home/freefoodco/public_html/cw_admin/pages/town.php on line 11
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 23
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/town.php on line 67
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/town.php on line 67
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/town.php on line 202
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 202
+[25-Jul-2016 10:34:12 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/town.php on line 208
+[25-Jul-2016 01:04:25 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 4
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: del in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 11
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 16
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 40
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 99
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 99
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 260
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 260
+[25-Jul-2016 10:34:25 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/cluster.php on line 266
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 01:06:16 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:36:16 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 01:06:23 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 47
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 47
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 158
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 185
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 185
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 191
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 200
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 214
+[25-Jul-2016 10:36:23 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/clp.php on line 214
+[25-Jul-2016 01:06:39 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/wallet.php on line 4
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/wallet.php on line 39
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/wallet.php on line 85
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/wallet.php on line 85
+[25-Jul-2016 10:36:39 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/wallet.php on line 90
+[25-Jul-2016 01:07:00 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:37:00 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:11:48 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 6
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 51
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 51
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 114
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 114
+[25-Jul-2016 10:41:48 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 120
+[25-Jul-2016 01:11:52 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:41:52 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:41:52 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 6
+[25-Jul-2016 10:41:52 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:41:52 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 51
+[25-Jul-2016 01:12:46 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 6
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 51
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 51
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 114
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 114
+[25-Jul-2016 10:42:46 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/commissions.php on line 120
+[25-Jul-2016 01:13:31 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:43:31 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:14:09 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:44:09 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 01:14:13 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: store in /home/freefoodco/public_html/cw_admin/pages/area.php on line 21
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:14:13 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:44:13 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:15:21 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 4
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/category.php on line 4
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant event - assumed 'event' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 16
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: event in /home/freefoodco/public_html/cw_admin/pages/category.php on line 16
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 79
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/category.php on line 79
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 180
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/category.php on line 180
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 197
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/category.php on line 197
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 242
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/category.php on line 242
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/category.php on line 247
+[25-Jul-2016 10:45:21 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 289
+[25-Jul-2016 01:15:58 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 4
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/category.php on line 4
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Use of undefined constant event - assumed 'event' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 16
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Undefined index: event in /home/freefoodco/public_html/cw_admin/pages/category.php on line 16
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 79
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/category.php on line 79
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:45:58 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/category.php on line 180
+[25-Jul-2016 01:16:13 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 11
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 11
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 16
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 16
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 84
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 84
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 184
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 184
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 206
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 206
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 261
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 261
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 267
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 305
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 309
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 305
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 309
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 305
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 309
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 305
+[25-Jul-2016 10:46:13 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/foodcategory.php on line 309
+[25-Jul-2016 01:16:21 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 4
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 4
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 9
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 9
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 14
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 135
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 135
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 239
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 239
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 397
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 436
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/products.php on line 436
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/products.php on line 442
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/products.php on line 450
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: subcategory in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:21 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 507
+[25-Jul-2016 01:16:27 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 4
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 4
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 9
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 9
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 14
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 135
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 135
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 239
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/products.php on line 239
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 397
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 436
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/products.php on line 436
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/products.php on line 442
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/products.php on line 450
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: subcategory in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/products.php on line 475
+[25-Jul-2016 10:46:27 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 507
+[25-Jul-2016 01:16:33 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 4
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Undefined index: category in /home/freefoodco/public_html/cw_admin/pages/products.php on line 14
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/products.php on line 55
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:46:33 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/products.php on line 135
+[25-Jul-2016 10:46:44 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:47 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:49 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:46:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 01:17:47 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 4
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 9
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 30
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 44
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 105
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 105
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 337
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 337
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 343
+[25-Jul-2016 10:47:47 Asia/Calcutta] PHP Deprecated:  Function split() is deprecated in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 375
+[25-Jul-2016 01:17:55 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 4
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 9
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 30
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 44
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:47:55 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 105
+[25-Jul-2016 01:19:10 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 4
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 9
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 30
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 44
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 105
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 105
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 329
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 329
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 335
+[25-Jul-2016 10:49:10 Asia/Calcutta] PHP Deprecated:  Function split() is deprecated in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 367
+[25-Jul-2016 01:19:14 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 4
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 9
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 30
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 44
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:49:14 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storevendors.php on line 105
+[25-Jul-2016 01:19:28 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 4
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Undefined index: Submit in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 9
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 10:49:28 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 166
+[25-Jul-2016 01:19:42 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/users.php on line 4
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 4
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/users.php on line 45
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 45
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/users.php on line 49
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 60
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: userid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 69
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: description in /home/freefoodco/public_html/cw_admin/pages/users.php on line 83
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: userid in /home/freefoodco/public_html/cw_admin/pages/users.php on line 102
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 103
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: todate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 104
+[25-Jul-2016 10:49:42 Asia/Calcutta] PHP Notice:  Undefined variable: fromdate in /home/freefoodco/public_html/cw_admin/pages/users.php on line 135
+[25-Jul-2016 01:19:48 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 4
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 4
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 72
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 72
+[25-Jul-2016 10:49:48 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 76
+[25-Jul-2016 01:24:08 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 01:24:08 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:54:08 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:54:09 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:09 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:54:09 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:54:09 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:54:09 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 01:24:19 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:19 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 01:24:34 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Use of undefined constant deleteid - assumed 'deleteid' in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 4
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 4
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 72
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 72
+[25-Jul-2016 10:54:34 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/partners.php on line 76
+[25-Jul-2016 01:24:43 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:54:43 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:24:47 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:47 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 01:24:51 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:54:51 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:24:52 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 4
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant refid - assumed 'refid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: refid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 9
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 19
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 60
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/area.php on line 94
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 145
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/area.php on line 176
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/area.php on line 182
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 191
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined variable: area in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 10:54:52 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/area.php on line 205
+[25-Jul-2016 01:31:43 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 4
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined index: zonal in /home/freefoodco/public_html/cw_admin/pages/town.php on line 11
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 23
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/town.php on line 67
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/town.php on line 67
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/town.php on line 202
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/town.php on line 202
+[25-Jul-2016 11:01:43 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/town.php on line 208
+[25-Jul-2016 01:34:56 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 4
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 4
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 9
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 9
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant category - assumed 'category' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 14
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: category in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 14
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 54
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 54
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 135
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 135
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 236
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 236
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 389
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 426
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 426
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 432
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 440
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: category in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 465
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: subcategory in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 465
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Undefined variable: Search in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 465
+[25-Jul-2016 11:04:56 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 497
+[25-Jul-2016 01:35:01 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 4
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Use of undefined constant category - assumed 'category' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 14
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Undefined index: category in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 14
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Use of undefined constant hidid - assumed 'hidid' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 54
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 54
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:05:01 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/storeproducts.php on line 135
+[25-Jul-2016 01:37:45 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:07:45 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:07:45 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:07:45 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 01:38:05 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 01:38:05 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 11:08:05 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 11:08:06 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:08:06 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:08:06 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:08:06 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:08:06 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:51:41 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:51:41 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 02:21:42 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:51:42 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 02:21:51 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: deleteid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 4
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: state in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 9
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: hidid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 30
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 44
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 105
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 105
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 337
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 337
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 343
+[25-Jul-2016 11:51:51 Asia/Calcutta] PHP Deprecated:  Function split() is deprecated in /home/freefoodco/public_html/cw_admin/pages/vendors.php on line 375
+[25-Jul-2016 02:24:44 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 02:24:44 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 4
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: Submit in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 9
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 166
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:54:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:54:56 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 02:24:57 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:54:57 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:54:57 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:54:57 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 02:25:04 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 4
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Undefined index: Submit in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 9
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Use of undefined constant action - assumed 'action' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Undefined index: action in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 64
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Undefined index: guid in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 162
+[25-Jul-2016 11:55:04 Asia/Calcutta] PHP Notice:  Undefined variable: page in /home/freefoodco/public_html/cw_admin/pages/orders.php on line 166
+[25-Jul-2016 11:55:58 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 11:55:58 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:55:58 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 11:55:58 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 11:55:58 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 02:59:40 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 02:59:40 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:29:40 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 12:29:41 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:29:41 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:29:41 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:29:41 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:29:41 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 03:10:11 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 03:10:11 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:40:11 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 03:10:43 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 03:10:43 America/New_York] PHP Notice:  Undefined index: admin_loginid in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Notice:  Undefined index: loginname in /home/freefoodco/public_html/cw_admin/pages/header.php on line 28
+[25-Jul-2016 12:40:43 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 12:40:44 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:44 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:44 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:44 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:40:44 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant guid - assumed 'guid' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 19
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/freefoodco/public_html/cw_admin/pages/login.php on line 20
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:40:52 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 03:10:53 America/New_York] PHP Notice:  Use of undefined constant admin_loginid - assumed 'admin_loginid' in /home/freefoodco/public_html/cw_admin/pages/secure.php on line 1
+[25-Jul-2016 12:40:53 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:53 Asia/Calcutta] PHP Notice:  Use of undefined constant loginname - assumed 'loginname' in /home/freefoodco/public_html/cw_admin/pages/header.php on line 21
+[25-Jul-2016 12:40:53 Asia/Calcutta] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/freefoodco/public_html/cw_admin/pages/index.php on line 50
+[25-Jul-2016 12:40:59 Asia/Calcutta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/freefoodco/public_html/config.php on line 11
+[25-Jul-2016 12:40:59 Asia/Calcutta] PHP Notice:  Use of undefined constant submit - assumed 'submit' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:59 Asia/Calcutta] PHP Notice:  Undefined index: submit in /home/freefoodco/public_html/cw_admin/pages/login.php on line 2
+[25-Jul-2016 12:40:59 Asia/Calcutta] PHP Notice:  Use of undefined constant msg - assumed 'msg' in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32
+[25-Jul-2016 12:40:59 Asia/Calcutta] PHP Notice:  Undefined index: msg in /home/freefoodco/public_html/cw_admin/pages/login.php on line 32

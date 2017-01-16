@@ -1,0 +1,1 @@
+<?php if($_SESSION['partner_loginid']==''){header('location:logout.php');}?>

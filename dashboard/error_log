@@ -1,0 +1,25 @@
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 11
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'bigwilw5'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 12
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 12
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'bigwilw5'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 10
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 10
+[01-Aug-2016 08:44:18 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 11
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_select_db(): Access denied for user 'bigwilw5'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 12
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/bigwilw5/public_html/freefood.co.in/dashboard/sql.php on line 12
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'bigwilw5'@'localhost' (using password: NO) in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 10
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 10
+[01-Aug-2016 08:44:29 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 08:46:33 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 08:46:49 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:05:45 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:05:55 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:06:11 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:08:57 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:09:06 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:09:32 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[01-Aug-2016 09:09:47 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/index.php on line 11
+[02-Aug-2016 02:23:06 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bigwilw5/public_html/freefood.co.in/dashboard/detailsview.php on line 200
+[02-Aug-2016 02:23:06 Etc/UTC] PHP Warning:  require(phpmail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bigwilw5/public_html/freefood.co.in/dashboard/detailsview.php on line 332
+[02-Aug-2016 02:23:06 Etc/UTC] PHP Warning:  require(phpmail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bigwilw5/public_html/freefood.co.in/dashboard/detailsview.php on line 332
+[02-Aug-2016 02:23:06 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'phpmail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/bigwilw5/public_html/freefood.co.in/dashboard/detailsview.php on line 332

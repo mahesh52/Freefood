@@ -1,0 +1,1 @@
+<?php if($_SESSION['vendor_loginid']==''){header('location:logout.php');}?>

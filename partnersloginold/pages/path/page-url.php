@@ -1,0 +1,1 @@
+<?php $path = 'http://localhost/catchway-transactions/payload/site/pages/'; ?>

@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+.section{ background-color:#e7e7e7; display: block;
+    float: left;
+    padding: 18px 0px !important;
+    width: 100%; margin-bottom:30px; }
+.pagebody{background-color:#f5f5f5;}
+
+
+.dashboard-box{ background-color:#fff; border:solid 1px #ccc;  text-align:center; -webkit-border-radius: 22px; 
+-moz-border-radius: 22px;
+border-radius: 22px; padding:0px;display:block; margin:0px 0px 15px 0px;  }
+
+
+
+
+.dashboard-box-table-title{ font-weight:bold; font-size:12px;padding-right:4px; width:40%;  }
+.dashboard-box table td{ font-size:12px;}
+.dashboard-box .circles{   border: 1px solid #ccc;
+    border-radius: 100%;
+    height:65px;
+/*    line-height: 27px;*/
+    margin: 14px auto 2px !important;
+    padding: 14px 0;
+    vertical-align: middle;
+    width: 65px;}
+.dashboard-box .title{ padding:8px; text-align:center; font-weight:bold; font-size:13px;  background-color:#454547; color:#fff; -webkit-border-bottom-right-radius: 19px;
+-webkit-border-bottom-left-radius: 19px;
+-moz-border-radius-bottomright: 19px;
+-moz-border-radius-bottomleft: 19px;
+border-bottom-right-radius: 19px;
+border-bottom-left-radius: 19px; margin-top:14px !important;}  
+ 
+	
+	.dashboard-box .title2{ padding:13px 8px;; text-align:center; font-weight:bold; font-size:13px;  background-color:#454547; color:#fff; -webkit-border-bottom-right-radius: 19px;
+-webkit-border-bottom-left-radius: 19px;
+-moz-border-radius-bottomright: 19px;
+-moz-border-radius-bottomleft: 19px;
+border-bottom-right-radius: 19px;
+border-bottom-left-radius: 19px; margin-top:14px !important;}  
+
+
+.box-titles{ border-bottom: 1px solid #ccc;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 17px;
+    margin: 0 0 10px !important;
+    padding: 8px 32px;
+    text-transform: uppercase;}
+	
+	.box-titles2{ /*border-bottom: 1px solid #ccc;*/
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 17px;
+    margin: 0 0 10px !important;
+    padding: 8px 32px;
+    text-transform: uppercase;}
+	
+	
+	
+	.dashboard-numbers{ font-size:18px; font-weight:bold; line-height:18px !important}
+	.ser-title{ font-size:12px !important; font-weight:bold; text-transform:uppercase; text-align:center; margin-bottom:9px;}
+	.min-label{ font-size:11px !important; padding:3px !important; font-weight:normal !important;}
+	.dashboard-box table td{ padding:2px !important}
+	.link{ font-weight:normal; text-decoration:none;}
+		.link:hover{ color:#7C7F86; text-decoration:none !important;}
+		.section-title{ margin:0px !important; margin-bottom:7px !important; font-size:18px !important; font-weight:normal; color:#f34235 !important;}

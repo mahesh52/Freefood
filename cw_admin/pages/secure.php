@@ -1,0 +1,1 @@
+<?php if($_SESSION[admin_loginid]==''){header('location:logout.php');}?>

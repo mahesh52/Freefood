@@ -1,0 +1,1 @@
+<?php if($_SESSION['clp_loginid']==''){header('location:logout.php');}?>
